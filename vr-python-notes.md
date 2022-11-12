@@ -25,12 +25,12 @@
     >>> 12 * 3
     36
     ```
-- - Multiplication (`*`): Multiplies the operands
+- Division (`/`): divides the operands and gives the output in floating point number.
   - ``` python
-    >>> 5 * 6 
-    30
-    >>> 12 * 3
-    36
+    >>> 30 / 6 
+    5.0
+    >>> 13 * 4
+    3.25
     ```
 
             
