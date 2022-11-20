@@ -32,5 +32,7 @@
     >>> 13 * 4
     3.25
     ```
-
-            
+## Programs
+1. Program to find the average of Max 2 numbers out of three.
+  - [Max2_out_of_three](Programs/max_2_out_of_2.py)
+  - ![Flowchart](assests/max_2_out_of_3.png)    
