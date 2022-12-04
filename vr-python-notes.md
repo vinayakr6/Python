@@ -1,7 +1,23 @@
 # PYTHON
 ## Introduction
 - Python is high level general purpose programming language used for various applications such as to build websites, software applications, to build mobile applications, to automate tasks, in Artificial Intelligence/Machine learning and data analysis, game development etc.
+- It is an object-oriented, high-level programming language with built-in data structures and dynamic semantics.
 
+- **Why to learn python** 
+1. Ease of use: Simple syntax, easy to understand and learn
+2. Active Community: large community to help with errors/issues 
+3. Portable and Extensible: code developed is compatible with any of the non-native platforms and also can be integrated with Java, C/C++ libraries or .Net Components.
+4. Testing frameworks: Many built-in testing frameworks to help in debugging and speeding up workflows. Tools/Framework supported by python - Selenium(run test scripts to automate tasks), pytest(functional, integrational and unit testing), splinter(for testing web applications, automates visiting URL's and iteractimng with items)
+5. Libraries and Packages: Has a rabge of libraries, packagages, frameworks and modules for data manipulation, statistical calculation, web development, machine learning and data science. Python opackage index repository of python software.
+6. Scripting and automation: Used for writing scripts and automating tasks without human intervention.
+7. Web Development: Wide collection of frameworks(Django, flask, pyramid, turbo gears, cherry pie and more) that make it easier for developers to develop web applications. 
+8. Machine Learning: 
+9. Data Science: 
+10. Career Opporutunities and Salary: 
+- **Popular open source projects**
+  - PipENV, Chatistics, Travelling Salesman Problem using Self-organizing maps and python to BPF converter
+- **Popular GitHub repositories**
+  - NLP, ML-From-Scratch, Pytorch-Transformers, 100-Days Of ML Code
 ## Python Operators
 ## 1. Arthimetic operators
 - Addition (`+`): Adds the operands 
