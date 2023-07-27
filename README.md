@@ -1,7 +1,7 @@
 # Python
 
 ## Content of vr-python-notes.md
-- Assignement Operators
+- Assignment Operators
 
 
 ## Python Programs
